@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/Vhdl/Projects/D latch
+T_opt
+!s110 1612402324
+V7GK8^ETee^F3e;F3JEQI_1
+04 7 4 work tri_bus gate 1
+=1-0068eb7c5103-601b4e93-33c-532c
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1612403439
+VN7UoPDK=Vz:jP8gSjZ[FN0
+04 13 6 work register_file behave 1
+=1-0068eb7c5103-601b52ef-17b-10cc
+R1
+R2
+n@_opt1
+R3
+Ecounter
+Z4 w1602440296
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 dD:/Work Zone/Vhdl/Projects
+Z10 8D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd
+Z11 FD:/Work Zone/Vhdl/Projects/D latch/Counter.vhd
+l0
+L4
+V1D0Fgj7nRPb;NF>O^78]U3
+!s100 0j<>b>_j:m:=]W`[LHaPW0
+Z12 OL;C;10.5;63
+33
+Z13 !s110 1602440300
+!i10b 1
+Z14 !s108 1602440300.000000
+Z15 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd|
+Z16 !s107 D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd|
+!i113 0
+Z17 o-work work -2008 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+R7
+R8
+DEx4 work 7 counter 0 22 1D0Fgj7nRPb;NF>O^78]U3
+l11
+L10
+V3=k]o22kKS`LZbcDR=eO`2
+!s100 d>Lam@;i2YV`99gAT>AI00
+R12
+33
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Eregister_file
+Z19 w1602445919
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R5
+R6
+R7
+R8
+R9
+Z21 8D:/Work Zone/Vhdl/Projects/Register_file.vhd
+Z22 FD:/Work Zone/Vhdl/Projects/Register_file.vhd
+l0
+L5
+Vlj8AO5CQN5lIi[VnOPb@a3
+!s100 hzF1PfdeBA7e3BfC:FlGi1
+R12
+32
+Z23 !s110 1602450602
+!i10b 1
+Z24 !s108 1602450602.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/Register_file.vhd|
+Z26 !s107 D:/Work Zone/Vhdl/Projects/Register_file.vhd|
+!i113 0
+Z27 o-work work -2002 -explicit
+R18
+Abehave
+R20
+R5
+R6
+R7
+R8
+DEx4 work 13 register_file 0 22 lj8AO5CQN5lIi[VnOPb@a3
+l21
+L18
+V5GTL5Wa4VOUFDEgCcLhjc1
+!s100 zZh0AdO[ET`@^`;1VWif]2
+R12
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 0
+R27
+R18
+Etri_bus
+Z28 w1602446924
+R5
+R6
+R7
+R8
+R9
+Z29 8D:/Work Zone/Vhdl/Projects/tristate_buffer.vhd
+Z30 FD:/Work Zone/Vhdl/Projects/tristate_buffer.vhd
+l0
+L4
+VZC@gQIK6b1Kc=[09I@VeP0
+!s100 VQPVSeVEL^54@U<2U@giT3
+R12
+32
+R23
+!i10b 1
+R24
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/tristate_buffer.vhd|
+Z32 !s107 D:/Work Zone/Vhdl/Projects/tristate_buffer.vhd|
+!i113 0
+R27
+R18
+Agate
+R5
+R6
+R7
+R8
+DEx4 work 7 tri_bus 0 22 ZC@gQIK6b1Kc=[09I@VeP0
+l14
+L13
+V4D=@:K9YlaMWhGWW=PnMI2
+!s100 l@l>DDF[YRHcf5dYUYoPe2
+R12
+32
+R23
+!i10b 1
+R24
+R31
+R32
+!i113 0
+R27
+R18

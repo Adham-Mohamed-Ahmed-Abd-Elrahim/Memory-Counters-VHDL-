@@ -1,0 +1,52 @@
+{D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd} {0 {vcom -work work -2008 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Counter
+-- Compiling architecture Behavioral of Counter
+** Error: D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd(16): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd(16): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd(20): VHDL Compiler exiting
+
+} {8.0 11.0} {}} {D:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shift
+-- Compiling architecture seq of shift
+
+} {} {}} {D:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity data_register
+-- Compiling architecture behavioral of data_register
+
+} {} {}} {D:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity D_Latch
+-- Compiling architecture seq of D_Latch
+
+} {} {}} {D:/Work Zone/Vhdl/Projects/D latch/D_flip_flop.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/D_flip_flop.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity D_Latch
+-- Compiling architecture seq of D_Latch
+
+} {} {}} {D:/Work Zone/Vhdl/Projects/D latch/D_Latch.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Projects/D latch/D_Latch.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity D_Latch
+-- Compiling architecture seq of D_Latch
+
+} {} {}}

@@ -1,0 +1,199 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/Vhdl/Course/full adder
+T_opt
+!s110 1602383314
+V6TgAUPmj=G9j_kXmoWZTz3
+04 7 3 work d_latch seq 1
+=1-0068eb7c5103-5f826dd2-d5-31b0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+Z2 OL;O;10.5;63
+R0
+T_opt1
+!s110 1602430786
+VM?`hlY?bA5QYaZ_M^>mh03
+04 13 10 work data_register behavioral 1
+=1-0068eb7c5103-5f832742-24b-4ae4
+Z3 o-quiet -auto_acc_if_foreign -work work
+R1
+n@_opt1
+R2
+R0
+T_opt2
+!s110 1602436610
+VK=IGBLcRHR>lR>T=jfe532
+04 7 3 work counter seq 1
+=1-0068eb7c5103-5f833e02-2e2-51e0
+R3
+R1
+n@_opt2
+R2
+R0
+Ecounter
+w1602439978
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dD:/Work Zone/Vhdl/Projects/D latch
+8D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd
+FD:/Work Zone/Vhdl/Projects/D latch/Counter.vhd
+l0
+L3
+VUO47EL8bFjbAQ`oVJig3V0
+!s100 nH>D]O:S?G2o0_XMd04OV1
+Z7 OL;C;10.5;63
+33
+!s110 1602439983
+!i10b 1
+!s108 1602439983.000000
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd|
+!s107 D:/Work Zone/Vhdl/Projects/D latch/Counter.vhd|
+!i113 0
+o-work work -2008 -explicit
+Z8 tExplicit 1 CvgOpt 0
+Aseq
+R4
+R5
+DEx4 work 7 counter 0 22 XXAJm=4Ilfgmj<HA@XIeh1
+l12
+L11
+VE0e2@JnV`bn^I_?eU5bQa1
+!s100 Y7__P_F`YRfZz]E1OIJPF3
+R7
+32
+!s110 1602437020
+!i10b 1
+!s108 1602437020.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd|
+Z10 !s107 D:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+R8
+Z12 FD:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd
+w1602436863
+Z13 8D:/Work Zone/Vhdl/Projects/D latch/Shift_register.vhd
+Ed_latch
+Z14 w1602383904
+R4
+R5
+R6
+Z15 8D:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd
+Z16 FD:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd
+l0
+L4
+VBz]SXLNJkzDJ5gKG?9Pg`3
+!s100 _W:lGAX9z01;@Zg90ebKn3
+R7
+32
+Z17 !s110 1602439738
+!i10b 1
+Z18 !s108 1602439738.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd|
+Z20 !s107 D:/Work Zone/Vhdl/Projects/D latch/d_flip_Flop_synch.vhd|
+!i113 0
+R11
+R8
+Aseq
+R4
+R5
+DEx4 work 7 d_latch 0 22 Bz]SXLNJkzDJ5gKG?9Pg`3
+l11
+L10
+VV7Bl434>B8:z2HTb9bP<30
+!s100 Z`<n=28lPLVfhO7`_49l:2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R11
+R8
+Edata_register
+Z21 w1602430684
+R4
+R5
+R6
+Z22 8D:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd
+Z23 FD:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd
+l0
+L3
+VT16eVAoc6TB4hm^[SMNCL2
+!s100 HIGkjkm?_gCa[kcIYef7<3
+R7
+32
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd|
+Z25 !s107 D:/Work Zone/Vhdl/Projects/D latch/Date_Register.vhd|
+!i113 0
+R11
+R8
+Abehavioral
+R4
+R5
+DEx4 work 13 data_register 0 22 T16eVAoc6TB4hm^[SMNCL2
+l11
+L10
+VG0i8T7OY17l=gle3ROCb:0
+!s100 `eZ_LS:ScE^^2k4kgb<hD1
+R7
+32
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 0
+R11
+R8
+Eshift
+Z26 w1602439680
+R4
+R5
+R6
+R13
+R12
+l0
+L3
+V;zSBiz>0BChTZk?2PDS993
+!s100 V:a=A]7MM9CM_164Y`HA;0
+R7
+32
+R17
+!i10b 1
+R18
+R9
+R10
+!i113 0
+R11
+R8
+Aseq
+R4
+R5
+DEx4 work 5 shift 0 22 ;zSBiz>0BChTZk?2PDS993
+l12
+L11
+V[i3]0MfKhIINUChmYhHB53
+!s100 CeYm:g]MN7NXk1Ml5leZH2
+R7
+32
+R17
+!i10b 1
+R18
+R9
+R10
+!i113 0
+R11
+R8
